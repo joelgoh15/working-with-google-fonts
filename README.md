@@ -1,8 +1,6 @@
 # working-with-google-fonts
 A simple project that works with different types of Google fonts.
 
-A software engineering portfolio by Joel Goh C.H.
-
 # Technical Details
 1. A portfolio project with an emphasis on Google fonts.
 2. Technology stacks and approach used:
