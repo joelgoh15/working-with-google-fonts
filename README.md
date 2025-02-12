@@ -7,6 +7,7 @@ A portfolio project with an emphasis on Google fonts.
 Technology stacks and approach used:
 <ul>
   <ul>
+    <li>ASP.Net</li>
     <li>HTML5</li>  
     <li>CSS3</li>  
     <li>Google Fonts</li>  
