@@ -1,5 +1,5 @@
-# working-with-google-fonts
-A simple project that works with different types of Google fonts.
+## Introduction
+A project that works with different types of Google fonts.
 
 ## Technical Details
 1. A portfolio project with an emphasis on Google fonts.
